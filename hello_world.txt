@@ -3,3 +3,4 @@ This is a second line of text
 This is a third line of text
 Just trying to understand git!!
 Fifth line of text for training purposes
+A sixth line just to see if I remember the gits 
